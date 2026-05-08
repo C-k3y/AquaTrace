@@ -1,6 +1,6 @@
 # AquaTrace
 
-AquaTrace is a mobile-centric platform built to empower communities—especially in rural and peri-urban areas—to report, verify, and access water quality information. By combining machine learning, geolocation, and SMS alerts, AquaTrace helps users identify safe water sources and raises awareness about local water quality.
+AquaTrace is a platform built to empower communities—especially in rural and peri-urban areas—to report, verify, and access water quality information. By combining machine learning, geolocation, and SMS alerts, AquaTrace helps users identify safe water sources and raises awareness about local water quality.
 
 
 ## Overview
